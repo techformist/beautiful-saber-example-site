@@ -20,6 +20,6 @@
     "saber": "^0.11.5",
     "saber-plugin-feed": "^0.4.3",
     "saber-plugin-query-posts": "^0.4.5",
-    "saber-theme-beautiful-saber": "^0.0.1"
+    "saber-theme-beautiful-saber": "^0.0.4"
   }
 }

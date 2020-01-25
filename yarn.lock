@@ -4801,10 +4801,10 @@ saber-plugin-query-posts@^0.4.5:
     slugo "^0.3.1"
     url-join "^4.0.0"
 
-saber-theme-beautiful-saber@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/saber-theme-beautiful-saber/-/saber-theme-beautiful-saber-0.0.1.tgz#34f5c509359402430c37319f00fb399be6e6506a"
-  integrity sha512-Yl7akAlKjx7jfs7TOX5A2LRmMdszfA0TfpnqrOTNsVS2K9IHFARJhYnYxX9EwK3rBCxoCt2wyMpnWaukEcMKrg==
+saber-theme-beautiful-saber@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/saber-theme-beautiful-saber/-/saber-theme-beautiful-saber-0.0.4.tgz#b0ee8f0e8ebda44906f33740d40205e0689b9283"
+  integrity sha512-W1xW6B8P+f1piLca0BNFfKlQBf9+yHmb9Z/wD2a0U1+/jGB0juggPFgAVml4j6Ak19X0otiFP8N9vQ6jDFQJig==
   dependencies:
     tinydate "^1.2.0"
 
