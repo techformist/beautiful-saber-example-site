@@ -1,0 +1,25 @@
+{
+  "name": "beaufiful-saber-example-site",
+  "version": "0.0.1",
+  "description": "An example site for beautiful-saber saber.land theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "saber",
+    "build": "saber build"
+  },
+  "keywords": [
+    "beautiful-saber",
+    "saber",
+    "saber.land",
+    "saber theme"
+  ],
+  "author": "Prashanth Krishnamurthy",
+  "license": "MIT",
+  "dependencies": {
+    "saber": "^0.11.5",
+    "saber-plugin-feed": "^0.4.3",
+    "saber-plugin-query-posts": "^0.4.5",
+    "saber-theme-beautiful-saber": "^0.0.1"
+  }
+}
